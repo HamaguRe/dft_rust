@@ -1,0 +1,8 @@
+[package]
+name = "dft"
+version = "0.1.0"
+authors = ["HamaguRe"]
+edition = "2018"
+
+[dependencies]
+gnuplot = "0.0.31"
